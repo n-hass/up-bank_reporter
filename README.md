@@ -1,2 +1,4 @@
 # up-bank_reporter
-Python script which makes API calls to Up Bank's v1.0 API 
+Uses Up Bank's v1.0 personal API to report spending statistics and generate CSV transaction statements.
+
+Requires an API token.
